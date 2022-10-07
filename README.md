@@ -2,7 +2,7 @@
 Source code for the Nikros Raiding Server website.
 
 <img src="https://img.shields.io/github/languages/code-size/NikrosRaidingServer/NRS-Website" alt="Code Size">
-  <img src="https://img.shields.io/github/repo-size/NikrosRaidingServer/NRS-Website" alt="Repo Size">
+<img src="https://img.shields.io/github/repo-size/NikrosRaidingServer/NRS-Website" alt="Repo Size">
 
 ----------------------------------------------------------------
 <div align="center">
