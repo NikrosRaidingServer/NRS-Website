@@ -2,4 +2,7 @@
 Source code for the Nikros Raiding Server website.
 ----------------------------------------------------------------
 Join Nikros Raiding Server
-https://www.discord.gg/vVByjBhTqh
+
+<div align="center">
+  <a href="https://www.discord.gg/vVByjBhTqh"><img src="https://invidget.switchblade.xyz/vVByjBhTqh"></a>
+</div>
