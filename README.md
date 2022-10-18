@@ -5,5 +5,5 @@ Source code for the Nikros Raiding Server website.
 
 ----------------------------------------------------------------
 <div align="center">
-  <a href="https://www.discord.gg/nnxJarX9CD"><img src="https://invidget.switchblade.xyz/nnxJarX9CD"></a>
+  <a href="https://discord.gg/qwpwZ94wYh"><img src="https://invidget.switchblade.xyz/qwpwZ94wYh"></a>
 </div>
